@@ -28,7 +28,7 @@ public class Car_Chapter15 {
 		case 5 -> speed = 50;
 		default -> speed = 10;
 		}
-		System.out.println("速度は時速" + speed + "です");
+		System.out.println("速度は時速" + speed + "kmです");
 	}
 
 }
